@@ -37,8 +37,8 @@ The assistant can listen, understand context, respond intelligently, and even ha
 ### 1. Install Packages
 
 ```bash
-git clone https://github.com/your-username/callmind-voice-assistant.git
-cd callmind-voice-assistant
+git clone https://github.com/suchael/call_mind_ai_help_desk
+cd call_mind_ai_help_desk
 npm install
 
 ### Update the .env file
